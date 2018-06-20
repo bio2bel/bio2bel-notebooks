@@ -1,2 +1,6 @@
 .ipynb_checkpoints/*.ipynb
+
 .DS_Store
+
+*.tsv
+*.json
