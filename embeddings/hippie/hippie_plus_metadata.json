@@ -1,0 +1,8 @@
+{
+  "package_name": "nrl",
+  "package_version": "0.0.2-dev",
+  "parameters": {
+    "random_walk": "{\"number_paths\": 10, \"max_path_length\": 40, \"restart_probability\": 0.0, \"p\": 1.0, \"q\": 1.0, \"sampling_strategy\": {}, \"is_directed\": false, \"is_weighted\": true}",
+    "word2vec": "{\"size\": 128, \"window\": 5, \"min_count\": 0, \"sg\": 1, \"hs\": 1, \"workers\": 7}"
+  }
+}
